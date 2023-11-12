@@ -1,7 +1,7 @@
 Hello, you can call me Ben. I'm a passionate Web Developer and knows a little bit about design. 
-I like to design and build User Interfaces (UIs), for all kinds of platforma: mobile, desktop and the web.
+I like to design and build User Interfaces (UIs), for all kinds of platforms primarily  the web. (but keen to expanding to mobile, desktop and beyond - wearables and IoT devices.)
 
-You can contact me...contacts coming soon!
+You can contact me on my socials linked to my GitHub account.
 
 <!---
 ben-dev10/ben-dev10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
